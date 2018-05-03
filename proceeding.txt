@@ -1,0 +1,29 @@
+Implementation
+
+environment setup 
+	python
+	pip
+	scikit-learn
+	scipy
+	numpy
+
+decision tree - classificaion algorithms:
+	show image
+	gender classification & tennis playing
+	feature wise -- building trees - 
+	entropy/information gain 
+	DT is NP-complete-- so we must use brute force
+	Pruning
+
+Sentiment Analysis
+	https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
+
+Recommendation system - 
+	Data growth- Youtube, Amazon, Facebook
+	2 ways- 
+		collaborative- you like and friends like, 
+		Content based- what you've liked in the past
+
+		Facebook uses both..
+
+
