@@ -15,8 +15,15 @@ decision tree - classificaion algorithms:
 	DT is NP-complete-- so we must use brute force
 	Pruning
 
-Sentiment Analysis
+Sentiment Analysis- understanding and extracting feelings from data
+	Textblob -  NLP 
 	https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
+	How it works-
+		tokenization
+		lexicon-based sentiment
+		polarity- how positive or negative?
+		subjectivity- opinion or fact?
+
 
 Recommendation system - 
 	Data growth- Youtube, Amazon, Facebook
