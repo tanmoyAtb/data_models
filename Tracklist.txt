@@ -1,3 +1,5 @@
 Decision tree
+Logistic regression
+Stock price prediction
 Sentiment analysis
-Recommendation system
+Speech recognition
