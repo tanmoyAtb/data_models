@@ -1,11 +1,29 @@
 Implementation
 
 environment setup 
-	python
-	pip
-	scikit-learn
-	scipy
-	numpy
+	Python
+	Pip
+	Scipy
+	Numpy
+	SpeechRecognition
+	Scikit-learn
+	Textblob
+
+Basics environment-
+	sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+	sudo apt-get install -qq python python-dev python-pip build-essential swig libpulse-dev
+
+Machine learning kit -
+	pip install -U scikit-learn
+
+Speech recognition kit -
+	pip install SpeechRecognition
+	sudo pip install pocketsphinx
+
+Sentiment Analysis kit-
+	pip install -U textblob
+	python -m textblob.download_corpora
+
 
 decision tree - classificaion algorithms:
 	show image
@@ -18,12 +36,6 @@ decision tree - classificaion algorithms:
 Sentiment Analysis
 	https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
 
-Recommendation system - 
-	Data growth- Youtube, Amazon, Facebook
-	2 ways- 
-		collaborative- you like and friends like, 
-		Content based- what you've liked in the past
 
-		Facebook uses both..
 
 
