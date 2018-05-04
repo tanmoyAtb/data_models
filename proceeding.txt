@@ -10,19 +10,20 @@ environment setup
 	Textblob
 
 Basics environment-
-	sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+	sudo apt-get install python-numpy python-scipy python-matplotlib 
+	sudo apt-get install ipython ipython-notebook python-pandas python-sympy python-nose
 	sudo apt-get install -qq python python-dev python-pip build-essential swig libpulse-dev
 
 Machine learning kit -
 	pip install -U scikit-learn
 
-Speech recognition kit -
-	pip install SpeechRecognition
-	sudo pip install pocketsphinx
-
 Sentiment Analysis kit-
 	pip install -U textblob
 	python -m textblob.download_corpora
+
+Speech recognition kit -
+	pip install SpeechRecognition
+	pip install pocketsphinx
 
 
 decision tree - classificaion algorithms:

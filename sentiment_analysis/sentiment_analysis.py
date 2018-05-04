@@ -8,7 +8,7 @@ I got the worse grades this semester.
 
 They lived happily ever after.
 
-i feel feverish and cold after it rains.
+I feel feverish and cold after it rains.
 '''
 
 blob = TextBlob(text)
