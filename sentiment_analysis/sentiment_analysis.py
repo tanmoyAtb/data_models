@@ -9,6 +9,8 @@ I got the worse grades this semester.
 They lived happily ever after.
 
 I feel feverish and cold after it rains.
+
+An apple a day keeps the doctor away.
 '''
 
 blob = TextBlob(text)
