@@ -1,31 +1,3 @@
-Implementation
-
-environment setup 
-	Python
-	Pip
-	Scipy
-	Numpy
-	SpeechRecognition
-	Scikit-learn
-	Textblob
-
-Basics environment-
-	sudo apt-get install python-numpy python-scipy python-matplotlib 
-	sudo apt-get install ipython ipython-notebook python-pandas python-sympy python-nose
-	sudo apt-get install -qq python python-dev python-pip build-essential swig libpulse-dev
-
-Machine learning kit -
-	pip install -U scikit-learn
-
-Sentiment Analysis kit-
-	pip install -U textblob
-	python -m textblob.download_corpora
-
-Speech recognition kit -
-	pip install SpeechRecognition
-	pip install pocketsphinx
-
-
 decision tree - classificaion algorithms:
 	show image
 	gender classification & tennis playing
