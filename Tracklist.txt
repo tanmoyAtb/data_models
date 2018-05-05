@@ -1,5 +1,6 @@
-Decision tree
-Logistic regression
-Stock price prediction
-Sentiment analysis
-Speech recognition
+Decision Tree
+Multinomial Logistic Regression
+Stock Price Prediction
+Speech Recognition
+Sentiment Analysis
+
